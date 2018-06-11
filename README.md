@@ -23,7 +23,9 @@
 - orangleliu
     + [radon测试环境搭建](https://github.com/orangle/mydocker/tree/master/radon)
     + [网络编程笔记](https://github.com/orangle/network-coding)
-
+- frainmeng 
+    + 上午发烧没写，吃了点药感觉是好点了，还是头疼;本周已工作为主，在做告警的自动恢复
+    + 看了网络编程视屏教程1-4，下周继续看
 ##### 25周 (6.11 ~ 6.17) 
 
 
