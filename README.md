@@ -40,6 +40,6 @@
     + 继续学习网络编程，知道了nc命令：nc -z -w5 -v 127.0.0.1 5050 可以用来检测网络端口是否开启
     + 学习了使用ss命令来查看网络状态：ss -ltn4 
     + 复习使用awk命令
-    + 复习docker相关知识，为k8s做准备，同时也是为了开发方便
+    + 复习docker相关知识，为k8s做准备，同时也是为了开发方便，参考[docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/install/mirror.html)
 
 ##### 26周 (6.18 ~ 6.24) 
