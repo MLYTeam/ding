@@ -48,6 +48,7 @@
     + 这段时间争取看完 `陈硕` 的网络编程课，对网络协议和常见的网络编程模式有更深一步理解，并能自己做些设计和项目
 
 ##### 26周 (6.18 ~ 6.24) 
-
+- frainmeng
+    + 继续复习docker，[docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/install/mirror.html)
 
 ##### 27周 (6.19 ~ 6.27)
