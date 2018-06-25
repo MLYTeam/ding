@@ -52,5 +52,6 @@
     + 继续复习docker，[docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/install/mirror.html)
     + 目前会简单的镜像，容器操作；基本镜像的制作；自己制作的一个golang的开发环境的docker；
     + 计划下周要复习下shell编程，发现写脚本吃力；
+    + 还在看网络编程，但是目前来看收获不大；
 
 ##### 27周 (6.19 ~ 6.27)
