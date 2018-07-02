@@ -64,6 +64,11 @@
     + 网络编程还在看，还是没有收获，可能不是我想学习的吧
     + docker的知识目前够用，暂停学习，要处理工作上的事（服务伸缩容逻辑需要修改，本周最重要的工作）
     + 接下来两件事，学习网络知识[网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/index.html)，学习shell脚本知识
+
+- orangleliu
+    + 两个牙被淘汰，好惨呀
+    + [Ledisdb源码笔记](http://417e7e7c.wiz03.com/share/s/11vDVY0SpQJT2K3Oq51lD14a10w-tP1QH4RJ2I21N62Y3Jno)
+    + [陈天-软件工程师成长之路笔记](http://417e7e7c.wiz03.com/share/s/11vDVY0SpQJT2K3Oq51lD14a1oL9w93vR4-f2Snk6W1JK_Zj)
     
 ##### 28周 (7.2 ~ 7.8)
 ##### 29周 (7.9 ~ 7.15)
