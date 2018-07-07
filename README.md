@@ -71,6 +71,9 @@
     + [陈天-软件工程师成长之路笔记](http://417e7e7c.wiz03.com/share/s/11vDVY0SpQJT2K3Oq51lD14a1oL9w93vR4-f2Snk6W1JK_Zj)
     
 ##### 28周 (7.2 ~ 7.8)
+-frainmeng
+    + consul的kv简单学习，即写入数据
+    + promethus的数据写入
 ##### 29周 (7.9 ~ 7.15)
 ##### 30周 (7.16 ~ 7.22)
 ##### 31周 (7.23 ~ 7.29)
