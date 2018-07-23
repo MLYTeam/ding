@@ -92,4 +92,11 @@
     + 用 async/await 来处理异步
     + js protoType一些的复习
 ##### 30周 (7.16 ~ 7.22)
+- hansonYe
+    + 了解react ssr基本概念
+    + 返回值为promise的function的研究, 目前给此类函数扩展参数的场景无法解决, 以后回来再看 @TODO
+
 ##### 31周 (7.23 ~ 7.29)
+- hansonYe
+    + 开始系统学习react, 给实现ssr做准备
+    + typescript有时间再看, 先列出来 @TODO
