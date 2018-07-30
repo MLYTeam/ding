@@ -91,14 +91,20 @@
     + 在重构的过程中, 作用域this丢失是个坑, 现在解决方案是每个修饰器中都加入bind处理, 形成链式调用
     + 用 async/await 来处理异步
     + js protoType一些的复习
+    
+- frainmeng
+    + golang，consul，promethus的结合实现服务注册和发现
 ##### 30周 (7.16 ~ 7.22)
 - hansonYe
     + 了解react ssr基本概念
     + 返回值为promise的function的研究, 目前给此类函数扩展参数的场景无法解决, 以后回来再看 @TODO
-
+    
+- frainmeng
+    + 还是以学习golang为主，写agent和对应的server
 ##### 31周 (7.23 ~ 7.29)
 - hansonYe
     + 开始系统学习react, 给实现ssr做准备
     + typescript有时间再看, 先列出来 @TODO
+    
 - frainmeng
     + 因工作变动和请假，本周无心工作
