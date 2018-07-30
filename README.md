@@ -100,3 +100,5 @@
 - hansonYe
     + 开始系统学习react, 给实现ssr做准备
     + typescript有时间再看, 先列出来 @TODO
+- frainmeng
+    + 因工作变动和请假，本周无心工作
