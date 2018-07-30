@@ -100,3 +100,4 @@
 - hansonYe
     + 开始系统学习react, 给实现ssr做准备
     + typescript有时间再看, 先列出来 @TODO
+    + 刚好有个复杂的项目, 思考将前端向面向对象设计
