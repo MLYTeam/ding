@@ -115,4 +115,4 @@
     + 工作上的活太多, 加上要给拍婚纱照做准备, 暂停一周
     
 - frainmeng
-    + 重新复习了golang的备份基础知识[golang](https://github.com/frainmeng/golang_study_bolg/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+    + 重新复习了golang的基础知识[golang](https://github.com/frainmeng/golang_study_bolg/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
